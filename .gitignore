@@ -1,0 +1,4 @@
+# Файлы Jupyter
+.ipynb_checkpoints/
+.env
+my_venv/
